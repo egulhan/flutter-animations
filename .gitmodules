@@ -1,0 +1,4 @@
+[submodule "flutter-animation-bouncing-ball"]
+	path = flutter-animation-bouncing-ball
+	url = https://github.com/egulhan/flutter-animation-bouncing-ball
+	branch = master
